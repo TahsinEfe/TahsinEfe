@@ -2,7 +2,7 @@
 <h3 align="center">🚀 MIS Student  | 🎮 Game Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=3rd+Year+MIS+Student+%F0%9F%93%9A;Mobile+%26+Web+Developer+%F0%9F%92%BB;Unity+%2F+Unreal+Enthusiast+%F0%9F%8E%AE;Learning+Every+Day+%E2%9C%8C%EF%B8%8F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=3rd+Year+MIS+Student+%F0%9F%93%9A;" alt="Typing SVG" />
 </p>
 
 ---
