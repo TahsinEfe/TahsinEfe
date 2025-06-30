@@ -58,7 +58,7 @@
 
 ---
 
-## 🧩 Fun Fact
+## 🧩 Hobbies
 
 > “I love building things that combine logic and creativity — from enterprise systems to indie games.” 🎨💻  
 > Currently designing and developing systems that make life easier for others — one commit at a time 🚀
