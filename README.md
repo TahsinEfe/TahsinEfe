@@ -14,7 +14,7 @@
   - **EventSphere** – Event Management Platform (ASP.NET + React)
   - **RouteWiseTMS** – Transportation Management System (Spring Boot + React)
   - **IT Support Service System** – Full-stack Support Platform
-- 🌱 Exploring **Unity C#**, **Swift**, and **Java backend development**
+- 🌱 Exploring **C#**, **Swift**, **C++**, and **Java backend development**
 - 🎮 Gamer at heart | 📱 Tech follower | 🧠 Problem solver
 
 ---
@@ -47,14 +47,6 @@
 - 🕹️ Game Development (Unity, Unreal Engine)
 - 🛠️ Design Patterns, MVC Architecture, Clean Code Practices
 
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TahsinEfe&show_icons=true&theme=radical" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TahsinEfe&layout=compact&theme=radical" height="160"/>
-</p>
 
 ---
 
