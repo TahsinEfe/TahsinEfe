@@ -9,7 +9,7 @@
 
 ## 👨‍🎓 About Me
 
-- 🎓 3rd-year student at **Işık University**, studying **Management Information Systems**
+- 🎓 4rd-year student at **Işık University**, studying **Management Information Systems**
 - 🔭 Latest Projects:
   - **EventSphere** – Event Management Platform (ASP.NET + React)
   - **RouteWiseTMS** – Transportation Management System (Spring Boot + React)
