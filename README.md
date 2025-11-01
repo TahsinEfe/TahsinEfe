@@ -11,6 +11,13 @@
 💡 Focused on building scalable enterprise systems with .NET, Java & React  
 </p>
 
+
+
+<p align="center">
+🎮 Game & tech enthusiast —  Doer of awesome things. 
+</p>
+
+
 ---
 
 ```bash
