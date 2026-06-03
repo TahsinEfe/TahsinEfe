@@ -1,31 +1,36 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="200"/>
+  <img src="assets/github.png" height="220" />
 </div>
 
 ###
 
-<h3 align="center">👋 Hey there, I'm <span style="color:#00BFFF;">Tahsin Efe Yılmaz</span></h3>
+<h2 align="center">Hi, I'm Tahsin Efe Yılmaz</h2>
 
 <p align="center">
-🚀 <b>Full-Stack Developer</b> | 🎓 Management Information Systems  
-💡 Focused on building scalable enterprise systems with .NET, Java & React  
+  Full-Stack Developer • MIS Graduate • Software & Game Development Enthusiast
 </p>
-
-
 
 <p align="center">
-🎮 Game & tech enthusiast —  Doer of awesome things. 
+  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" height="45" />
 </p>
 
+<p align="center">
+  Doer of awesome things
+</p>
+
+<p align="center">
+  I build scalable, secure and maintainable applications using modern backend and frontend technologies.
+</p>
 
 ---
 
 ```bash
-> initializing portfolio.exe...
-> loading modules: [.NET, Spring Boot, React, Oracle, Docker, JWT, CQRS]
-> system online ⚡
+> initializing profile...
 
-User: Tahsin Efe Yılmaz
-Status: Crafting backend logic & clean architecture
-Mission: Build secure, efficient & scalable solutions
-Location: Istanbul, Türkiye 🌍
+Name: Tahsin Efe Yılmaz
+Location: Istanbul, Türkiye
+Focus: Full-Stack Development, iOS Apps, Game Development
+Currently working with: .NET, Swift, React, Oracle, Docker, JWT, CQRS
+Goal: Building clean, efficient and enterprise-ready software
+
+> profile loaded successfully.
