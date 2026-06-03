@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/github.png" height="220" />
+  <img src="assets/github.jpeg" width="100%" />
 </div>
 
 ###
