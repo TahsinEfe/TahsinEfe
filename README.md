@@ -23,14 +23,3 @@
 </p>
 
 ---
-
-```bash
-> initializing profile...
-
-Name: Tahsin Efe Yılmaz
-Location: Istanbul, Türkiye
-Focus: Full-Stack Development, iOS Apps, Game Development
-Currently working with: .NET, Swift, React, Oracle, Docker, JWT, CQRS
-Goal: Building clean, efficient and enterprise-ready software
-
-> profile loaded successfully.
